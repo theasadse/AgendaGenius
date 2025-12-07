@@ -1,0 +1,5 @@
+{
+  "name": "AgendaGenius",
+  "description": "Upload documents to automatically generate structured meeting agendas with a timeline view, stakeholders, and an AI chatbot assistant.",
+  "requestFramePermissions": []
+}
